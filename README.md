@@ -6,6 +6,7 @@ Just my convention for naming things in code
 
 ### Iterable
 Use plural for iterable data type such as `Array` and `List`
+
 Good
 ```
 posts
@@ -61,6 +62,7 @@ some file.txt
 
 ## Urls
 Use `-` to separate words
+
 Good
 
 ```
