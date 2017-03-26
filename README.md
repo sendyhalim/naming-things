@@ -1,9 +1,7 @@
 # Naming things
 Just my convention for naming things in code
 
-
 ## Variables
-
 ### Iterable
 Use plural for iterable data type such as `Array` and `List`
 
@@ -37,6 +35,22 @@ users
 user
 products
 product
+```
+
+## Comments
+- Always use capital letter to start a new sentence
+- Add one space between comment marker and the comment itself
+
+Good
+```
+// This is a comment.
+// Another comment.
+```
+
+Bad
+```
+//This is a comment
+// this is a comment
 ```
 
 ## File Nodes
@@ -75,4 +89,3 @@ Bad
 http://example.com/some_example/post
 http://example.com/some example/post
 ```
-
